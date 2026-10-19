@@ -1,0 +1,9 @@
+*.txt
+*.zip
+*.jar
+*.exe
+*.log
+__pycache__/
+.venv/
+.env
+.env.*
